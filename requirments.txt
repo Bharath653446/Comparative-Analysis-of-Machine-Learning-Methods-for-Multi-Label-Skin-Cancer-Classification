@@ -1,7 +1,0 @@
-Flask
-pandas
-Pillow
-matplotlib
-seaborn
-keras
-tensorflow
